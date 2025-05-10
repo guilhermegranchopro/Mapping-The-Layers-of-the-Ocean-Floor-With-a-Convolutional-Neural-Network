@@ -1,13 +1,13 @@
 # Mapping the Layers of the Ocean Floor With a Convolutional Neural Network
 
-![CBPF Logo](Assets/CBPF.jpg)
+<img src="Assets/CBPF.jpg" width="300"/>
 
 This project, developed at the [Brazilian Center for Physics Research (CBPF)](http://portal.cbpf.br/), focuses on mapping the layers of the ocean floor using a Convolutional Neural Network (CNN). The primary goal is to analyze geological structures and understand seabed composition, which has a significant impact on the oil industry.
 
 ## 🌟 Key Achievement
 
 This research resulted in the publication of a paper on arXiv:
-**[arxiv_paper.pdf](arxiv_paper.pdf)** (Please ensure the PDF is accessible in the repository or provide a direct link to the arXiv publication).
+**[Mapping the Layers of the Ocean Floor With a Convolutional Neural Network](https://arxiv.org/abs/2412.05329)**
 
 ## 📖 Project Overview
 
