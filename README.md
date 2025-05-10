@@ -11,7 +11,11 @@ This project, developed at the [Brazilian Center for Physics Research (CBPF)](ht
 This research resulted in the publication of a paper on arXiv:
 **[Mapping the Layers of the Ocean Floor With a Convolutional Neural Network](https://arxiv.org/abs/2412.05329)** 
 
-[![arXiv](Assets/ArXiv_logo.png)][arxiv-shield]
+<p align="center">
+  <a href="https://arxiv.org/abs/2412.05329" target="_blank">
+    <img src="Assets/ArXiv_logo.png" alt="arXiv logo" width="100"/>
+  </a>
+</p>
 
 ## 📖 Project Overview
 
