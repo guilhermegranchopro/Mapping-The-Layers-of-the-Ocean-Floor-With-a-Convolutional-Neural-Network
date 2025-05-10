@@ -1,6 +1,8 @@
 # Mapping the Layers of the Ocean Floor With a Convolutional Neural Network
 
-<img src="Assets/CBPF.jpg" width="300"/>
+<p align="center">
+  <img src="Assets/CBPF.jpg" width="200"/>
+</p>
 
 This project, developed at the [Brazilian Center for Physics Research (CBPF)](http://portal.cbpf.br/), focuses on mapping the layers of the ocean floor using a Convolutional Neural Network (CNN). The primary goal is to analyze geological structures and understand seabed composition, which has a significant impact on the oil industry.
 
@@ -23,21 +25,32 @@ The work is divided into several experimental stages, as detailed in the Jupyter
 
 This project leverages a variety of Python libraries and tools:
 
-- **Core Language:** Python
-- **Development Environment:** Jupyter Notebooks
+- **Core Language:** Python ![Python][python-shield]
+- **Development Environment:** Jupyter Notebooks ![Jupyter Notebooks][jupyter-shield]
 - **Machine Learning & Deep Learning:**
-  - PyTorch
-  - Scikit-image
+  - PyTorch ![PyTorch][pytorch-shield]
+  - Scikit-image ![Scikit-image][scikit-image-shield]
 - **Image Processing:**
-  - OpenCV (cv2)
+  - OpenCV (cv2) ![OpenCV][opencv-shield]
 - **Numerical Computation & Data Analysis:**
-  - NumPy
-  - Pandas
-  - SciPy
+  - NumPy ![NumPy][numpy-shield]
+  - Pandas ![Pandas][pandas-shield]
+  - SciPy ![SciPy][scipy-shield]
 - **Plotting & Visualization:**
-  - Matplotlib
+  - Matplotlib ![Matplotlib][matplotlib-shield]
 - **Other:**
-  - Google Colab (for cloud-based notebook execution)
+  - Google Colab (for cloud-based notebook execution) ![Google Colab][google-colab-shield]
+
+[python-shield]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+[jupyter-shield]: https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white
+[pytorch-shield]: https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white
+[scikit-image-shield]: https://img.shields.io/badge/scikit--image-0096CF?style=for-the-badge&logo=scikit-image&logoColor=white
+[opencv-shield]: https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white
+[numpy-shield]: https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white
+[pandas-shield]: https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white
+[scipy-shield]: https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white
+[matplotlib-shield]: https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white
+[google-colab-shield]: https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black
 
 ## 🚀 Getting Started
 
