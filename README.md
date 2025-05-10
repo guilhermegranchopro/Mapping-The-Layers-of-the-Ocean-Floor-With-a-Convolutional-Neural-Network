@@ -9,7 +9,7 @@ This project, developed at the [Brazilian Center for Physics Research (CBPF)](ht
 ## 🌟 Key Achievement
 
 This research resulted in the publication of a paper on arXiv:
-**[Mapping the Layers of the Ocean Floor With a Convolutional Neural Network](https://arxiv.org/abs/2412.05329)**
+**[Mapping the Layers of the Ocean Floor With a Convolutional Neural Network](https://arxiv.org/abs/2412.05329)** [![arXiv](Assets/ArXiv_logo.png)][arxiv-shield]
 
 ## 📖 Project Overview
 
@@ -51,6 +51,7 @@ This project leverages a variety of Python libraries and tools:
 [scipy-shield]: https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white
 [matplotlib-shield]: https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white
 [google-colab-shield]: https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black
+[arxiv-shield]: https://arxiv.org/abs/2412.05329
 
 ## 🚀 Getting Started
 
